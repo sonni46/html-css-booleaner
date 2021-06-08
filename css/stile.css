@@ -1,0 +1,16 @@
+
+body{
+    margin: 0 auto;
+    
+}
+.sfondo-titolo{
+    background-image: url("../img/pattern.png");
+    background-size: 20%;
+    background-color: rgb(94, 94, 224);
+    padding: auto;
+    
+}
+.logo{
+    width: 20%;
+    padding-top: 5%;
+}
