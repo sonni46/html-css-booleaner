@@ -1,0 +1,60 @@
+body {
+  margin: 0 auto;
+  margin-left:20%;
+  color: blueviolet;
+  font-size: 2em;
+}
+main {
+  margin-left: 10px;
+}
+.sfondo-titolo {
+  background-image: url("https://static.wixstatic.com/media/e5527e_e41291e94a7946968747654b4a944967~mv2.gif");
+  background-size: 20%;
+  background-color: rgb(94, 94, 224);
+}
+.logo {
+  width: 20%;
+  padding-top: 5%;
+  
+}
+.scrittore {
+  color: rgb(0, 255, 76);
+}
+.editore {
+  color:  rgb(0, 255, 76);
+}
+.data {
+  color:  rgb(0, 255, 76);
+}
+.giallo {
+  background-color: yellow;
+}
+/* tabella */
+table {
+  border-collapse: collapse;
+}
+.grandezza-colonna {
+  width: 50%;
+}
+.colore-tabella-testa {
+  color: rgb(255, 255, 255);
+  background-color: rgb(14, 151, 206);
+}
+.colore-tabella-corpo {
+  background-color: skyblue;
+}
+/* fine tabella */
+
+ /* aggiornamento */
+
+p{
+  margin-right: 20%;
+}
+
+.lista{
+  margin-right: 20%
+}
+.secondo-titolo{
+  margin-right: 20%
+}
+/* fine aggiornameto */
