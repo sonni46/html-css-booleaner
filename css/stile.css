@@ -7,10 +7,25 @@ body{
     background-image: url("../img/pattern.png");
     background-size: 20%;
     background-color: rgb(94, 94, 224);
-    padding: auto;
-    
 }
 .logo{
     width: 20%;
     padding-top: 5%;
 }
+.scrittore{
+    color: darkgray;
+}
+.editore{
+    color: dodgerblue;
+}
+.data{
+    color: darkgray;
+}
+.giallo{
+    background-color:yellow;
+}
+/* tabella */
+
+
+
+/* fine tabella */
