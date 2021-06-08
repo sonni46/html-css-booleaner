@@ -1,31 +1,62 @@
-
-body{
-    margin: 0 auto;
-    
+body {
+  margin: 0 auto;
 }
-.sfondo-titolo{
-    background-image: url("../img/pattern.png");
-    background-size: 20%;
-    background-color: rgb(94, 94, 224);
+main {
+  margin-left: 10px;
 }
-.logo{
-    width: 20%;
-    padding-top: 5%;
+.sfondo-titolo {
+  background-image: url("../img/pattern.png");
+  background-size: 20%;
+  background-color: rgb(94, 94, 224);
 }
-.scrittore{
-    color: darkgray;
+.logo {
+  width: 20%;
+  padding-top: 5%;
 }
-.editore{
-    color: dodgerblue;
+.scrittore {
+  color: darkgray;
 }
-.data{
-    color: darkgray;
+.editore {
+  color: dodgerblue;
 }
-.giallo{
-    background-color:yellow;
+.data {
+  color: darkgray;
+}
+.giallo {
+  background-color: yellow;
 }
 /* tabella */
-
-
-
+table {
+  border-collapse: collapse;
+}
+.grandezza-colonna {
+  width: 50%;
+}
+.colore-tabella-testa {
+  color: rgb(255, 255, 255);
+  background-color: rgb(14, 151, 206);
+}
+.colore-tabella-corpo {
+  background-color: skyblue;
+}
 /* fine tabella */
+.info-correlati {
+  color: slategrey;
+  font-size: 120%;
+}
+.info-1 {
+  background: url("../img/monitor.jpg");
+  height: 208px;
+  width: 312px;
+}
+.info-2 {
+  background: url("../img/graph.jpg");
+  height: 208px;
+  width: 312px;
+  margin-top: 1%;
+}
+.info-colore {
+  color: snow;
+  font-size: 2em;
+
+}
